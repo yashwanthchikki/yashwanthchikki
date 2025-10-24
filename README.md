@@ -1,136 +1,322 @@
-👋 Hi, I'm Yashwanth Chikki HD
+# 👋 Hi, I'm Yashwanth Chikki HD
+
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Problem+Solver;ML+Enthusiast;Building+Efficient+Local(https://git.io/typing-svg in Artificial Intelligence & Machine Learning** | DSCE, Bangalore
-💼 Currently at Fidelity Investments, Bangalore
-🌍 Based in Bangalore, India
 
-🚀 About Me
-🧠 Passionate about building efficient, real-world solutions for local problems using full-stack development and machine learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Data+Analytics+%26+ML+Engineer;Building+Solutions+for+Real+Problems;Turning+Ideas+into+Impact)](https://git.io/typing-svg)
 
-💻 Experienced in designing scalable web applications, APIs, and AI-powered tools
+</div>
 
-🎯 Seeking roles in Full-Stack Development, Backend Engineering, Machine Learning, and Data Analytics
+**🎓 B.E. in Artificial Intelligence & Machine Learning** | DSCE, Bangalore  
+**💼 Analytics & ML Engineer** at **Fidelity Investments**  
+**🌍 Based in** Bangalore, India
 
-🌱 Constant learner focused on expanding expertise in modern web frameworks, AI integration, and cloud deployment
+---
 
-🔥 Featured Projects
-<table> <tr> <td width="50%">
-🛠️ Vendo
-Real-time Messaging Application
+## 🚀 About Me
 
-Full-stack platform supporting real-time text & audio-video chat with WebSocket & WebRTC.
-Features:
+- 💡 **Problem Solver & Builder** — I love creating solutions that make real-world impact
+- 🔧 Building **full-stack applications** with modern tech stacks (MERN, FastAPI, React)
+- 📊 Crafting **data-driven insights** with ML models and analytics pipelines
+- 🎯 Focused on **solving local problems** and making systems more efficient
+- 🧠 Experience in **recommendation systems, RAG pipelines, and real-time applications**
+- 🌱 Always learning, always building, always improving
+- 🔍 Looking for opportunities in **Full-Stack Development, Backend Engineering, ML, and Data Analytics**
 
-Secure messaging with symmetric encryption and JWT authentication
+---
 
-Dockerized scalable deployment
+## 🔥 Featured Projects
 
-Reliable multi-device connectivity
+<table>
+<tr>
+<td width="50%">
 
-Tech: Node.js, React, WebSocket, WebRTC, Docker, JWT
+### 💬 [Vendo](https://github.com/yashwanthchikki/vendo)
+**Real-Time Messaging Platform**
 
-</td> <td width="50%">
-📢 Citizen
-Short-form News Streaming Platform
+Secure messaging app independent of phone numbers
 
-Microservices-based intelligent content delivery with RAG pipeline and semantic search.
-Features:
+**Features:**
+- 🔐 End-to-end symmetric encryption
+- 💬 WebSocket-based real-time text chat
+- 📞 WebRTC audio/video calling
+- 🔑 JWT authentication
+- 🐳 Docker deployment
 
-Collaborative filtering recommendation engine
+**Tech:** Node.js, Express, WebSockets, WebRTC, Docker, JWT
 
-On-demand article curation with low-latency AWS S3 streaming
+</td>
+<td width="50%">
 
-Infinite scroll video streaming
+### 📰 [Citizen](https://github.com/yashwanthchikki/citizen)
+**Short-Form News Streaming Platform**
 
-Tech: Node.js, React, MongoDB, MySQL, AWS, RAG, LangChain
+Intelligent news curation with AI recommendations
 
-</td> </tr> <tr> <td width="50%">
-🔗 Clicko
-URL Management & Analytics
+**Features:**
+- 🎯 Collaborative filtering recommendation engine
+- 🧠 RAG pipeline for on-demand article curation
+- 🔍 Semantic search for content discovery
+- ☁️ AWS S3 direct video streaming
+- ♾️ Infinite scroll pagination
+- 🏗️ Microservices architecture
 
-URL shortener with real-time event tracking and conversion analytics.
-Features:
+**Tech:** Node.js, React, MongoDB, MySQL, AWS S3, RAG, LangChain
 
-TTL-based link expiration
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Aggregation pipelines for analytics dashboards
+### 🔗 [Clicko](https://github.com/yashwanthchikki/clicko)
+**URL Shortener & Analytics Platform**
 
-Multi-layered caching with Redis for sub-second queries
+Advanced URL management with conversion tracking
 
-Tech: Node.js, Express, MongoDB, Redis
+**Features:**
+- ⏱️ TTL-based link expiration
+- 📊 Real-time analytics dashboard
+- 🎯 Conversion funnel tracking
+- 🎁 Point redemption system
+- ⚡ Redis caching with sub-second queries
+- 📈 MongoDB aggregation pipelines
 
-</td> <td width="50%">
-🚦 Videtect
-Traffic Surveillance System
+**Tech:** Node.js, Express, MongoDB, Redis, Analytics
 
-YOLOv3 based system detecting signal violations for smarter traffic management.
-Features:
+</td>
+<td width="50%">
 
-Real-time video processing and violation detection
+### 🤖 [DataWise](https://github.com/yashwanthchikki/datawise)
+**AI-Powered Data Analysis Platform**
 
-Object detection with deep learning CNN models
+Talk to your data in natural language!
 
-Alerts & analytics dashboard
+**Features:**
+- 💬 Natural language to SQL queries
+- 🤖 AI chat interface for data exploration
+- 📊 Automatic data visualizations
+- ✏️ Direct data editing capabilities
+- 📈 Interactive dashboards
+- 🗃️ Multi-database support
 
-Tech: Python, YOLOv3, OpenCV, Flask
+**Tech:** Python, Gemini AI, SQL, Streamlit, LangChain
 
-</td> </tr> <tr> <td width="50%">
-📊 Datawise AI
-AI-Powered Data Interaction Platform
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Upload datasets and interact with AI-driven insights and visualizations using natural language queries.
-Features:
+### 🚦 [Videtect](https://github.com/yashwanthchikki/videtect)
+**Traffic Surveillance System**
 
-NL-to-SQL query generation
+AI-powered signal violation detection
 
-AI-guided data editing and visualization
+**Features:**
+- 📹 YOLOv3-based object detection
+- 🚗 Vehicle tracking and identification
+- ⚠️ Signal violation detection
+- 🎥 Real-time video processing
 
-Automated natural language report generation
+**Tech:** Python, YOLOv3, OpenCV, Deep Learning
 
-Tech: Python, Streamlit, LangChain, AI APIs, PostgreSQL
+</td>
+<td width="50%">
 
-</td> <td width="50%">
-🤖 Machine Learning Tools @ Fidelity
-Customized ML solutions for business impact
+### 🌿 Plant Disease Detection
+**Agricultural Health Monitoring**
 
-Developed ML tools for intent classification, CES prediction, and page prioritization enabling data-driven decisions and operational efficiency.
-Features:
+CNN-based disease detection system
 
-Feature engineering & model deployment with Streamlit
+**Features:**
+- 🖼️ Image classification on 60k+ images
+- 🧠 Custom CNN architecture
+- 📱 Flask web app integration
+- ⚡ Near real-time inference
+- 🎯 High validation accuracy
 
-Dynamic dashboards for business insights
+**Tech:** Python, TensorFlow, CNN, Flask, OpenCV
 
-Scenario simulation for prioritization
+</td>
+</tr>
+</table>
 
-Tech: Python, Scikit-learn, Streamlit, Pandas
+---
 
-</td> </tr> </table>
-🛠️ Tech Stack
-Languages: Python, JavaScript (ES6), Java, SQL, HTML5, CSS3
+## 💼 Professional Experience
 
-Frontend: React.js, Streamlit, Responsive UI design
+### 🏢 Fidelity Investments - Analytics & ML Engineer
+**Location:** Bangalore, Karnataka  
+**Highlights:**
+- 🎯 Developed **4 production ML tools** (CES predictor, intent classifier, ranking systems)
+- 📊 Built **Streamlit applications** for scenario simulation and dynamic ranking
+- 🔧 Engineered **feature pipelines** for predictive modeling
+- 💡 Delivered **actionable insights** to product and design teams through correlation analysis
+- 🚀 Deployed models to guide **resource allocation and prioritization**
 
-Backend: Node.js, Express.js, FastAPI, Flask, REST APIs, WebSockets
+### 🏢 Innosights Soft Solutions - Machine Learning Intern
+**Duration:** Feb 2024 - Apr 2024  
+**Achievements:**
+- 🌿 Implemented **CNN for plant disease detection** on 60k+ image dataset
+- 🏗️ Compared multiple architectures and optimized with data augmentation
+- ⚡ Integrated model into **Flask app** with real-time inference
+- 🎯 Achieved high validation accuracy with confidence thresholds
 
-Databases: MongoDB, PostgreSQL, MySQL, Redis
+---
 
-Machine Learning: TensorFlow, Scikit-learn, YOLOv3, Pandas, NumPy
+## 🛠️ Tech Stack
 
-Tools & DevOps: Docker, AWS, Git, GitHub Actions, CI/CD
+### Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-📫 Connect With Me
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&(https://www.linkedin.com/in/yashwanth-chikki-hd-851https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor(mailto:yashwanthchikkihd
-[![Portfolio Fullstack](https://img.shields.io/badge/Portfolio%20Fullstack-FF5722?style=for-the-badge&logo=google-chrome&logoColor(https://yashwanthchikki.github
-[![Portfolio Data Analytics](https://img.shields.io/badge/Portfolio%20Data_Analytics-0CA6CA?style=for-the-badge&logo=google-chrome&logoColor(https://yashwanthchikki.github.io/portfolio/data_analytics Open to Opportunities
 
-Full-Stack Development
+![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthchikki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498DB&icon_color=3498DB&text_color=C9D1D9)
 
-Backend Engineering
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthchikki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498DB&text_color=C9D1D9)
 
-Machine Learning
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanthchikki&theme=radical&hide_border=true&background=0D1117&stroke=3498DB&ring=3498DB&fire=3498DB&currStreakLabel=3498DB)
 
-Data Analytics
+</div>
 
-🎨 Fun Fact
-Solving local challenges with efficient tech solutions that make an impact.
+---
+
+## 🏆 Key Achievements
+
+- ✅ Built **6+ production-ready applications** spanning full-stack and ML domains
+- ✅ Developed **ML ranking systems** improving resource allocation at Fidelity
+- ✅ Created **real-time messaging platform** with WebRTC video calling
+- ✅ Implemented **recommendation engine** with RAG pipeline for news curation
+- ✅ Built **URL analytics system** with sub-second query performance
+- ✅ Designed **NL-to-SQL interface** making data accessible to non-technical users
+- ✅ Deployed **traffic surveillance AI** for signal violation detection
+- ✅ Achieved **high accuracy** CNN model on 60k+ image dataset
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔗 **Advanced microservices** architecture patterns
+- 🤖 **Multi-agent AI systems** and orchestration
+- ☁️ **Cloud-native deployment** strategies (AWS, GCP)
+- 🚀 **Real-time data streaming** with Kafka
+- 🔐 **Security best practices** for full-stack applications
+- 📊 **Advanced analytics** and predictive modeling
+
+---
+
+## 💡 What Drives Me
+
+I'm passionate about **building solutions that solve real-world problems**. Whether it's creating a messaging platform that respects privacy, building AI systems that make data accessible to everyone, or developing analytics tools that drive business decisions — I focus on creating **impact through technology**.
+
+My approach combines:
+- 🎯 **Problem-first thinking** — Understanding the real need before writing code
+- ⚡ **Efficiency & performance** — Building systems that scale
+- 🧠 **AI-powered solutions** — Leveraging ML to add intelligence
+- 🌐 **Full-stack expertise** — From frontend to backend to deployment
+
+---
+
+## 🎯 Open to Opportunities
+
+I'm actively seeking roles in:
+- 💻 **Full-Stack Development**
+- 🔧 **Backend Engineering**
+- 🤖 **Machine Learning Engineering**
+- 📊 **Data Analytics**
+- 🚀 **AI/ML Product Development**
+
+**Location:** Bangalore, India | Open to Remote
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio - Full Stack](https://img.shields.io/badge/Portfolio-Full_Stack-3498DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashwanthchikki.github.io/portfolio/fullstack/)
+[![Portfolio - Data Analytics](https://img.shields.io/badge/Portfolio-Data_Analytics-E74C3C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashwanthchikki.github.io/portfolio/data_analytics/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-chikki-hd-851022253/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthchikkihd@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwanthchikki)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Code with purpose, build with passion, solve with impact"
+
+![Visitor Count](https://profile-counter.glitch.me/yashwanthchikki/count.svg)
+
+**⭐ If you find my work interesting, star my repositories!**
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+**Made with ❤️ and lots of ☕ by Yashwanth Chikki HD**
+
+*Building solutions that matter, one commit at a time*
+
+</div>
