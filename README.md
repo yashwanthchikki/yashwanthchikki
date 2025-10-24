@@ -222,7 +222,7 @@ CNN-based disease detection system
 
 ![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthchikki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498DB&icon_color=3498DB&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthchikki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498DB&text_color=C9D1D9)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanthchikki&theme=radical&hide_border=true&background=0D1117&stroke=3498DB&ring=3498DB&fire=3498DB&currStreakLabel=3498DB)
 
@@ -298,20 +298,13 @@ I'm actively seeking roles in:
 
 ### 💬 "Code with purpose, build with passion, solve with impact"
 
-![Visitor Count](https://profile-counter.glitch.me/yashwanthchikki/count.svg)
+
 
 **⭐ If you find my work interesting, star my repositories!**
 
 </div>
 
----
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
 
