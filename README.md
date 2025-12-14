@@ -30,6 +30,44 @@
 <tr>
 <td width="50%">
 
+### 🎮 [CodePixel Arena](https://github.com/yashwanthchikki/game)
+**Strategic Multiplayer Coding Game**
+
+Battle opponents by writing Python code in real-time
+
+**Features:**
+- 🤖 Python-based strategy system
+- ⚔️ Real-time multiplayer battles
+- 🎯 Multiple attack types & resource management
+- 🏆 Rankings & leaderboards
+- 🔐 Secure sandboxed code execution
+- 🎨 Live battle visualization
+
+**Tech:** Node.js, React, Socket.IO, Python Bridge, SQLite, Docker
+
+</td>
+<td width="50%">
+
+### ⭕ [Tic-Tac-Toe Arena](https://github.com/yashwanthchikki/tick_tack_toe)
+**Multiplayer Strategy Game Platform**
+
+Advanced Tic-Tac-Toe with multiple game modes
+
+**Features:**
+- 🎲 3 Game modes: Classic, Disappearing-7, Timed
+- 👥 Public & private rooms
+- 🔄 Real-time move synchronization
+- 📊 Performance analytics & charts
+- 🤝 Buddy system & leaderboards
+- 🏅 Stats tracking & win streaks
+
+**Tech:** Node.js, React, Socket.IO, MongoDB, SQLite, Sequelize
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 💬 [Vendo](https://github.com/yashwanthchikki/vendo)
 **Real-Time Messaging Platform**
 
@@ -222,8 +260,6 @@ CNN-based disease detection system
 
 ![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthchikki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498DB&icon_color=3498DB&text_color=C9D1D9)
 
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanthchikki&theme=radical&hide_border=true&background=0D1117&stroke=3498DB&ring=3498DB&fire=3498DB&currStreakLabel=3498DB)
 
 </div>
@@ -232,9 +268,10 @@ CNN-based disease detection system
 
 ## 🏆 Key Achievements
 
-- ✅ Built **6+ production-ready applications** spanning full-stack and ML domains
+- ✅ Built **8+ production-ready applications** spanning full-stack, gaming, and ML domains
 - ✅ Developed **ML ranking systems** improving resource allocation at Fidelity
-- ✅ Created **real-time messaging platform** with WebRTC video calling
+- ✅ Created **multiplayer gaming platforms** with real-time synchronization and WebSocket architecture
+- ✅ Built **real-time messaging platform** with WebRTC video calling
 - ✅ Implemented **recommendation engine** with RAG pipeline for news curation
 - ✅ Built **URL analytics system** with sub-second query performance
 - ✅ Designed **NL-to-SQL interface** making data accessible to non-technical users
@@ -251,12 +288,13 @@ CNN-based disease detection system
 - 🚀 **Real-time data streaming** with Kafka
 - 🔐 **Security best practices** for full-stack applications
 - 📊 **Advanced analytics** and predictive modeling
+- 🎮 **Game development** and real-time multiplayer systems
 
 ---
 
 ## 💡 What Drives Me
 
-I'm passionate about **building solutions that solve real-world problems**. Whether it's creating a messaging platform that respects privacy, building AI systems that make data accessible to everyone, or developing analytics tools that drive business decisions — I focus on creating **impact through technology**.
+I'm passionate about **building solutions that solve real-world problems**. Whether it's creating a messaging platform that respects privacy, building AI systems that make data accessible to everyone, developing multiplayer games that combine coding with strategy, or creating analytics tools that drive business decisions — I focus on creating **impact through technology**.
 
 My approach combines:
 - 🎯 **Problem-first thinking** — Understanding the real need before writing code
@@ -274,6 +312,7 @@ I'm actively seeking roles in:
 - 🤖 **Machine Learning Engineering**
 - 📊 **Data Analytics**
 - 🚀 **AI/ML Product Development**
+- 🎮 **Game Development & Real-time Systems**
 
 **Location:** Bangalore, India | Open to Remote
 
@@ -298,13 +337,9 @@ I'm actively seeking roles in:
 
 ### 💬 "Code with purpose, build with passion, solve with impact"
 
-
-
 **⭐ If you find my work interesting, star my repositories!**
 
 </div>
-
-
 
 <div align="center">
 
