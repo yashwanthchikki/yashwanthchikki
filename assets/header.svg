@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#101a3a"/><stop offset="1" stop-color="#1a1036"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.35"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+    <style>
+      .name{font:700 58px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#f8fafc}
+      .hi{font:500 22px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#94a3b8}
+      .role{font:600 26px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:url(#accent);opacity:0}
+      .meta{font:400 18px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#cbd5e1}
+      .r1{animation:cycle 12s infinite 0s}.r2{animation:cycle 12s infinite 3s}.r3{animation:cycle 12s infinite 6s}.r4{animation:cycle 12s infinite 9s}
+      @keyframes cycle{0%{opacity:0;transform:translateY(12px)}4%{opacity:1;transform:translateY(0)}21%{opacity:1;transform:translateY(0)}25%{opacity:0;transform:translateY(-12px)}100%{opacity:0}}
+      .edge{stroke:#818cf8;stroke-opacity:.35;stroke-width:2;stroke-dasharray:6 8;animation:flow 3s linear infinite}
+      @keyframes flow{to{stroke-dashoffset:-56}}
+      .node{fill:#0f172a;stroke:#818cf8;stroke-width:2}
+      .pulse{fill:#38bdf8;animation:pulse 2.4s ease-in-out infinite}
+      .p2{animation-delay:.4s}.p3{animation-delay:.8s}.p4{animation-delay:1.2s}.p5{animation-delay:1.6s}
+      @keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+      .lbl{font:600 13px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#e2e8f0}
+      .cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+    <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+
+    <text x="70" y="95" class="hi">Hi there 👋  I'm</text>
+    <text x="68" y="160" class="name">Yashwanth Chikki H D</text>
+    <g transform="translate(70,212)">
+      <text class="role r1">AI Engineer · Multi-agent LLM systems</text>
+      <text class="role r2">Data &amp; Product Analytics · SQL · Python · BI</text>
+      <text class="role r3">Backend &amp; Full-Stack Developer</text>
+      <text class="role r4">Automation builder · MCP · RAG · Pipelines</text>
+    </g>
+    <text x="70" y="275" class="meta">📍 Bengaluru, India   ·   🛰️ MapmyIndia (Mappls) × DRDO   ·   📊 ex-Fidelity Investments</text>
+
+    <!-- router → agents graph -->
+    <g transform="translate(905,70)">
+      <path class="edge" d="M110 40 L20 150"/><path class="edge" d="M110 40 L75 170"/><path class="edge" d="M110 40 L145 170"/><path class="edge" d="M110 40 L200 150"/>
+      <path class="edge" d="M20 150 L75 170"/><path class="edge" d="M145 170 L200 150"/>
+      <rect x="62" y="18" width="96" height="44" rx="12" class="node"/><text x="110" y="45" text-anchor="middle" class="lbl">router</text>
+      <circle cx="20" cy="150" r="18" class="node"/><circle cx="20" cy="150" r="7" class="pulse"/>
+      <circle cx="75" cy="170" r="18" class="node"/><circle cx="75" cy="170" r="7" class="pulse p2"/>
+      <circle cx="145" cy="170" r="18" class="node"/><circle cx="145" cy="170" r="7" class="pulse p3"/>
+      <circle cx="200" cy="150" r="18" class="node"/><circle cx="200" cy="150" r="7" class="pulse p4"/>
+      <text x="110" y="228" text-anchor="middle" class="lbl" fill-opacity=".7">agents<tspan class="cursor">_</tspan></text>
+    </g>
+  </g>
+</svg>

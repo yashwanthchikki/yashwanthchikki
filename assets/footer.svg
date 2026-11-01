@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <style>.w{animation:drift 8s ease-in-out infinite alternate}.w2{animation-duration:11s}@keyframes drift{to{transform:translateX(-120px)}}</style>
+  </defs>
+  <g opacity=".55" class="w"><path d="M0 70 C150 30 300 110 450 70 S750 30 900 70 S1200 110 1350 70 V120 H0Z" fill="url(#a)" opacity=".35"/></g>
+  <g class="w w2"><path d="M0 85 C200 55 350 115 550 85 S900 55 1100 85 S1300 115 1400 85 V120 H0Z" fill="url(#a)" opacity=".5"/></g>
+</svg>
